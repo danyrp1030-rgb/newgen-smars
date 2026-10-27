@@ -12,7 +12,7 @@
 
 -The different features of the robots are connected through simple attachments and screwless assembly
 
--More information can be found on SMARS's very own [Github](https://github.com/kevinmcaleer/smars) run by Kevin McAleer
+-More information about the original SMARS can be found about SMARS's very own [Github](https://github.com/kevinmcaleer/smars) run by Kevin McAleer
 
 
 **What is our New-Gen SMARS?**
