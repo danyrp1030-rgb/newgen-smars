@@ -1,4 +1,4 @@
-# Welcome to the GMU Capstone New-Gen SMARS
+# Welcome to the GMU MIX New-Gen SMARS
 **Who are we?**
 
 -We are...
