@@ -1,7 +1,7 @@
 # Welcome to the GMU MIX New-Gen SMARS
 **Who are we?**
 
--We are the Mason Innovation Exchange, better known as the MIX. A GMU makerspace that offers workshops for a wide variety of creative projects ranging from 3D printing, textiles, and digital media, to soldering and circuitry​. Along with workshops, we offer multi-week short courses for different fields, such as drones, blimps, and of course robotics. New-Gen SMARS is one of these short courses....
+-We are the Mason Innovation Exchange, better known as the MIX. A GMU makerspace that offers workshops for a wide variety of creative projects ranging from 3D printing, textiles, and digital media, to soldering and circuitry​. Along with workshops, we offer multi-week short courses for different fields, such as drones, blimps, and of course robotics. New-Gen SMARS is one of these short courses (add some details abt course when available). This is github contains the code, CAD, and other essential files that will be needed to run the New-Gen SMARS.
 
 
 **What is SMARS?**
