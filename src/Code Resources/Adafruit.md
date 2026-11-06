@@ -3,7 +3,8 @@
 
 **Helpful Libraries**
 
-*Adafruit_MotorShield.h* Adafruit Motorshield V2
+Adafruit Motorshield V2: *Adafruit_MotorShield.h* 
+
 
 **Sensors**
-bluefruit
+Bluetooth: bluefruit
