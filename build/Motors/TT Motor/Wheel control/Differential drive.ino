@@ -42,8 +42,3 @@ void loop() {
   myMotorR->run(RELEASE);
   delay(5000);
 }
-
-
-
-
-}
