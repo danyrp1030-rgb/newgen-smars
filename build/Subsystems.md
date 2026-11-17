@@ -48,5 +48,8 @@
    - remote-control (using infrared)
    
 9. Button
+
+   <img width=25% height=auto alt="button image" src="https://github.com/user-attachments/assets/bbec08ce-41cd-4ad9-8c17-63a495fa750a" />
+
     
    - Start button to initiate an action
