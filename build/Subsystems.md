@@ -10,8 +10,8 @@
 
 **Sensors**
 1. Ultrasonic
-   
-   <img width="3246" height="1300" alt="image" src="https://github.com/user-attachments/assets/7c4e19ee-2a6c-440c-9410-d62ab3a3c58e" />
+
+   <img src="https://github.com/user-attachments/assets/7c4e19ee-2a6c-440c-9410-d62ab3a3c58e" alt="ultrasonic sensor image" width=50% height=auto />
    
    - sonar (sound-waves) measuring distance
    
