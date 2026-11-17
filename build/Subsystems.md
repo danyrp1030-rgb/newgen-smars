@@ -17,7 +17,7 @@
    
 3. Encoder
    
-   <img width="737" height="775" alt="image" src="https://github.com/user-attachments/assets/2f398c9d-f918-4d9d-8309-a629950e2b2c" />
+   <img width=50% height=auto alt="encoder image" src="https://github.com/user-attachments/assets/2f398c9d-f918-4d9d-8309-a629950e2b2c" />
 
    - senses motion and position to aid navigation
    
