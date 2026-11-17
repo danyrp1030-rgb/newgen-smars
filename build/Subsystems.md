@@ -2,11 +2,25 @@
 
 **Motors**
 1. TT motor
+
+<img width=25% height=auto alt="TT motor image" src="https://github.com/user-attachments/assets/4cd13d72-22b1-4c17-a41a-b4a34e86ee25" />
+
    - mainly drives wheels
+
 3. Stepper motor
+
+<img width=25% height=auto alt="stepper motor image" src="https://github.com/user-attachments/assets/035ac47e-c462-4d56-aaae-0ad63567292d" />
+
+
    - used for applications requiring high precision, such as grippers/graspers
+
 5. Servo motor
+
+<img width=25% height=auto alt="servo motor image" src="https://github.com/user-attachments/assets/46943c4c-dbe0-442e-8809-ba01c2798deb" />
+
+
    - many uses: arm/leg joints, wheels, base to mount ultrasonic sensor
+
 
 **Sensors**
 1. Ultrasonic
