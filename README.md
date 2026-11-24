@@ -20,3 +20,20 @@
 -The issues with the current SMARS is that there is difficulty in modification. From the website itself, the tasks it can perform are limited
 
 -New-Gen SMARS focuses on and expanded functionality list, accessible 3D printed parts, and an educational platform
+
+## Features
+-Tasks...
+
+
+## Initial Hardware (this is a copy pasted chart)
+| Component               | Quantity | Description |
+|--------------------------|----------|-------------|
+| Arduino UNO              | 1        | Main controller board |
+| MPU6050                  | 1        | 6-axis accelerometer + gyroscope sensor |
+| L298N Motor Driver       | 1        | Dual H-bridge motor driver |
+| Geared DC Motors         | 2        | Yellow 12V DC gear motors |
+| Wheels                   | 2        | Matched to DC motors |
+| 7.4V Li-ion Battery      | 1        | Power source |
+| 3D Printed Chassis       | 1        | Custom robot frame |
+| Connecting Wires         | As req.  | For circuit connections |
+| Nuts & Bolts             | As req.  | For motor & board mounting |
